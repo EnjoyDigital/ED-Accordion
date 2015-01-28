@@ -1,6 +1,6 @@
 /* globals $ */
 /* jshint browser: true, devel: true */
-$.fn.simpleAccordion = function (options) {
+$.fn.edAccordion = function (options) {
 	'use strict';
 	var settings = $.extend({ 'customClass': '', 'closeAll': false }, options);
 
