@@ -1,4 +1,4 @@
-Simple Accordion
+ED Accordion
 =========
 
 This plugin creates a very basic accordion with option to show a single item or open multiple items.
@@ -6,10 +6,10 @@ This plugin creates a very basic accordion with option to show a single item or 
 
 ###How to use
 
-Include Simple Accordion
+Include ED Accordion
 
 ```html
-<script src="js/simpleAccordion.min.js"></script>
+<script src="js/edAccordion.min.js"></script>
 ```
 
 ###Create your accordion
@@ -32,7 +32,7 @@ Include Simple Accordion
 ```html
 <script>
 $(function(){
-	$('.accordion .heading').simpleAccordion();
+	$('.accordion .heading').edAccordion();
 });
 </script>
 ```
